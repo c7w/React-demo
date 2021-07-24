@@ -1,0 +1,19 @@
+.Footer-bar {
+    padding: 1%;
+    background-color: #7E8CDB;
+    height: 5%;
+    width: 98%;
+    top: 91%;
+    position: absolute;
+}
+
+.Footer-content {
+    padding: 10px;
+    background-color: #616FCD;
+    color: Black;
+    text-decoration: none;
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+
+}

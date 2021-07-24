@@ -1,0 +1,18 @@
+.Nav-Navbar {
+    padding: 1%;
+    background-color: #7E8CDB;
+    height: 5%;
+    width: 98%;
+    position: absolute;
+}
+
+.Nav-Nav {
+    padding: 5%;
+    background-color: #616FCD;
+    color: Black;
+    font-size: large;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+
+}
