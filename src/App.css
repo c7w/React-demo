@@ -1,22 +1,47 @@
-.App-background{
-  background-color: #BFC6ED;
-  padding: 2%;
-  width: 96%;
-  height: 82%;
-  top: 7%;
-  position: absolute;
+
+.App h1{
+  text-align: center;
 }
 
 .App-main {
-  background-color: #F0F1FB;
-  padding: 2%;
-  width: 60%;
-  height: 90%;
-  display:table;
-  margin:auto auto;
-  border:1px solid #7E8CDB;
+  text-align: center;
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  width: 20%;
+  height: 12%;
+  display: table;
+  margin: auto;
+
+  position: absolute;
+  padding: 10px;
+  border: 1px solid red;
 }
 
-.App-main h1{
+.App-DataRaw{
   text-align: center;
+  position: absolute;
+  left: 20%;
+  top: 40%;
+  width: 20%;
+  height: 25%;
+  margin: 0  0;
+  padding: 10px;
+  border: 1px solid blue;
+}
+
+.App-DataRate{
+  text-align: center;
+  position: absolute;
+  left:60%;
+  top: 40%;
+  width: 20%;
+  height: 25%;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid blue;
+
+}
+
+.App-DataPercentage{
 }
